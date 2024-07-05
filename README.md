@@ -26,9 +26,9 @@
 </div>
 
 ## Sobre Mim
-**PT-BR**: Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência com diversas linguagens de programação e ferramentas, e estou sempre em busca de novos desafios e oportunidades para aprender e crescer.
+**PT-BR**: Sou um desenvolvedor apaixonado por tecnologia e programação. Tenho experiência com diversas linguagens de programação e ferramentas, e estou sempre em busca de novos desafios e oportunidades para crescer.
 
-**EN**: I am a developer passionate about technology and programming. I have experience with various programming languages and tools, and I am always looking for new challenges and opportunities to learn and grow.
+**EN**: I am a developer passionate about technology and programming. I have experience with various programming languages and tools, and I am always looking for new challenges and opportunities to grow.
 
 ## Projetos Destacados / Featured Projects
 
