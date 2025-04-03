@@ -2,6 +2,7 @@
 
 [![Azedia GitHub stats](https://github-readme-stats.vercel.app/api?username=azediawan&theme=algolia)](https://github.com/azediawan/github-readme-stats)
 
+[![wakatime](https://wakatime.com/badge/user/52c47d2c-2fd3-4701-b3ac-00168dcae883.svg)](https://wakatime.com/@52c47d2c-2fd3-4701-b3ac-00168dcae883)
 ### Linguagens Utilizadas / Programming Languages:
 <div style="display: inline_block">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
